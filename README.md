@@ -1,14 +1,10 @@
 # Python Project : DETECTION OF DISTRIBUTED DENAIL OF SERVICE (DDOS) ATTACK USING EXPLAINABLE AI 
-Welcome to the project  This repository contains the starter and final code for two complete projects that will be covered in a YouTube tutorial series. The tutorial series aims to provide comprehensive knowledge about detect the DDOS attack and guide you through building one exciting projects:
-Abstract :
-The project aims to detect the  DDOS attack using k-nearest neighbors (KNN) algorithm.
+Welcome to the project  This repository contains the starter and final code for two complete projects that will be covered in a YouTube tutorial series. The tutorial series aims to provide comprehensive knowledge about detect the DDOS attack and guide you through building one exciting projects
 
+Abstract : The project aims to detect the  DDOS attack using k-nearest neighbors (KNN) algorithm.
 To Detect along with KD Tree
-
- This project classifies DDOS sources at a fine granularity using each IP risk level.
-
+This project classifies DDOS sources at a fine granularity using each IP risk level.
 It also uses Shap and lime to find the explanatory information to enable network administrator  to understand  explanatory occurrence of  DDOS Attack. 
-
 The  above model is trained for a particular network and can be adapted to any network by Min-Max normalization.
 ![image](https://github.com/rrenukadevi/IT/assets/145702996/ad275c6a-5e5b-4166-b627-4aaa192d1dfb)
 
