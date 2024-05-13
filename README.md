@@ -7,11 +7,7 @@ Abstract :
 ![image](https://github.com/rrenukadevi/IT/assets/145702996/3cb956ac-91e6-4c8d-93c6-1a1ff5724c01)
 
 Conclusion :
-the Project Presents DDoS detection approach offers significant advancements in both detection accuracy and adaptability. By leveraging an enhanced KNN algorithm and KD tree, the system achieves high detection rates while minimizing computational complexity.
- 
-The inclusion of explanatory outputs empowers network administrators with clear insights into detected attacks, facilitating prompt and informed decision-making.
-
-Furthermore, the system's adaptability, through integration with existing rules and dynamic threshold adjustments, ensures robust protection against evolving DDoS threats.Overall![image](https://github.com/rrenukadevi/IT/assets/145702996/b50f1225-4c98-4973-b97e-d4456c3cbc07)
+![image](https://github.com/rrenukadevi/IT/assets/145702996/b50f1225-4c98-4973-b97e-d4456c3cbc07)
 
 
 
