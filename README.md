@@ -6,8 +6,5 @@ Abstract :
 
 ![image](https://github.com/rrenukadevi/IT/assets/145702996/3cb956ac-91e6-4c8d-93c6-1a1ff5724c01)
 
-Conclusion :
-![image](https://github.com/rrenukadevi/IT/assets/145702996/b50f1225-4c98-4973-b97e-d4456c3cbc07)
-
 
 
